@@ -1,0 +1,19 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+.sidebar {
+  position: absolute;
+  height: 100%;
+  background: #3262b9;
+  width: 300px;
+}
+
+.page {
+  margin-left: 300px;
+  background: #c2e7ff;
+  width: 100%;
+  min-height: 100%;
+}
