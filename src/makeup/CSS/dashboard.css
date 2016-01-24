@@ -1,0 +1,18 @@
+.page .header {
+  height: 52px;
+  background: #eaeaea;
+}
+
+.page .board {
+  background: #f5f5f5;
+  padding: 42px;
+}
+
+.page .status {
+   background: #f5f5f5;
+ }
+
+.page .new-post {
+  background: #f5f5f5;
+}
+

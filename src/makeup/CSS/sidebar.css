@@ -1,3 +1,25 @@
-.sidebar {
-
+.sidebar .user-photo {
+  height: 228px;
+  line-height: 228px;
+  background: #3171ca;
+  padding-bottom: 0;
 }
+
+.sidebar .user-photo-background {
+  color: white;
+  text-align: center;
+  width: 100%;
+  vertical-align: middle;
+}
+
+.sidebar .user-name {
+  height: 88px;
+  background: #039be5;
+  color: white;
+}
+
+.sidebar .user-info {
+  height: 256px;
+  border-bottom: 2px solid #3fbcef;
+}
+
